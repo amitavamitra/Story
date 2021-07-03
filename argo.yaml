@@ -1,13 +1,13 @@
 apiVersion: argoproj.io/v1alpha1
 kind: WorkflowTemplate
 metadata:
-  name: crud2305
+  name: crud0307
   generateName: argo-crud-template-
   annotations:
-    scenarios.ai.sap.com/description: This is awesome
-    scenarios.ai.sap.com/name: crud2305
-    executables.ai.sap.com/name: crud2305
-    executables.ai.sap.com/description: crud2305
+    scenarios.ai.sap.com/description: Perform a Data pipeline crud with AI core
+    scenarios.ai.sap.com/name: crud0307
+    executables.ai.sap.com/name: crud0307
+    executables.ai.sap.com/description: crud0307
     artifacts.ai.sap.com/training-data.kind: '"dataset"'
     artifacts.ai.sap.com/model.kind: '"model"'
   labels:
