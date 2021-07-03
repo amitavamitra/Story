@@ -1,10 +1,10 @@
 apiVersion: argoproj.io/v1alpha1
 kind: WorkflowTemplate
 metadata:
-  name: crud2305
+  name: Amitava
   generateName: argo-crud-template-
   annotations:
-    scenarios.ai.sap.com/description: Crud to S4 HANA
+    scenarios.ai.sap.com/description: 'This is a process crud template '
     scenarios.ai.sap.com/name: crud2305
     executables.ai.sap.com/name: crud2305
     executables.ai.sap.com/description: crud2305
