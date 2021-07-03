@@ -4,7 +4,7 @@ metadata:
   name: crud2305
   generateName: argo-crud-template-
   annotations:
-    scenarios.ai.sap.com/description: Life is a tale told  by an ...
+    scenarios.ai.sap.com/description: This is awesome
     scenarios.ai.sap.com/name: crud2305
     executables.ai.sap.com/name: crud2305
     executables.ai.sap.com/description: crud2305
